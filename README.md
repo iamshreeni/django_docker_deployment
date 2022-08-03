@@ -1,1 +1,1 @@
-# django_docker_deployment-
+# django_docker_deployment
